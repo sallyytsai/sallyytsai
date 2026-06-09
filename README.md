@@ -1,121 +1,53 @@
-<div align="center">
+# Sally (Shao-Yu) Tsai 蔡少瑜 | MPA/ID Candidate 2027 · Harvard Kennedy School
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sally+Tsai+%F0%9F%91%8B;Development+Economics+%7C+Public+Policy;Evidence-based+Research+for+Impact)](https://git.io/typing-svg)
-
-### 📊 Development Economics | 🌍 Public Policy | 📈 Data Analysis
-
-**Master in Public Administration – International Development** | *Harvard Kennedy School*
-
-<img src="https://komarev.com/ghpvc/?username=sallyytsai&style=flat-square&color=0077B5" alt="Profile views"/>
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sallytsai6640@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sallyytsai/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=githubpages&logoColor=white)](https://sallyytsai.github.io/sally-portfolio/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sallyytsai)
-
-</div>
+I study how small open economies navigate the tension between security competition and economic integration — particularly when geopolitical exposure reshapes trade policy, industrial structure, and consumer welfare. I work mainly with cross-national causal inference methods and combine them with process tracing grounded in institutional and political context.
 
 ---
 
-## 🎯 About Me
+## Research Questions
 
-I'm an economist and public policy analyst passionate about using **evidence-based research** to inform better decisions in low- and middle-income countries. My work sits at the intersection of:
-
-- 📉 **Quantitative Analysis** — Applied econometrics and statistical methods
-- 🌱 **Development Economics** — Inclusive growth and state capacity building
-- 🛡️ **Social Protection** — Policy design for vulnerable populations
-- 🔬 **Program Evaluation** — Rigorous impact assessment and causal inference
-
-I believe in **clear communication**, **practical implementation**, and the power of **interdisciplinary collaboration** to create meaningful change.
+| # | Question | Methods |
+|---|----------|---------|
+| Q1 | How does security salience shape trade restrictions on geopolitical rivals' goods in small open economies? | Cross-national ordered logit, synthetic control |
+| Q2 | Do VAT reforms pass through to consumer prices in regulated pharmaceutical markets, and who bears the welfare cost? | DiD, triple-difference, synthetic control |
+| Q3 | How do SMEs in trade-exposed sectors adjust to geopolitical supply-chain disruptions? | Survey + quasi-experimental |
+| Q4 | Does geopolitical exposure generate Dutch-disease-style crowding-out in non-defense tradables? | Panel IV |
 
 ---
 
-## 🔬 Research & Technical Skills
+## Working Papers
 
-### Programming & Data Analysis
+**The Security Premium: Why Taiwan Maintains the World's Most Restrictive Policy toward Chinese Electric Vehicles**
+with Cheng Wang & Luis Hong Sanchez · HKS DPI-410 · Spring 2026
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1a1a2e?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Cross-national ordered logit (N ≈ 60) + synthetic control. Shows security salience — not industry lobbying — predicts the upper tail of EV policy restrictiveness. Process tracing confirms the mechanism runs through elite threat perception.
+[→ PDF](https://sallyytsai.github.io/sally-portfolio/pdfs/tsai-wang-sanchez-security-premium-2026.pdf)
 
-### Econometric Methods
+**VAT Pass-Through in Philippine Pharmaceutical Markets: Evidence from the TRAIN Act**
+with Carlos Vega (Philippine Competition Commission / University of East Anglia) · Working Paper · 2026
 
-- Microeconometrics & Applied Statistics
-- Program Evaluation & Impact Assessment
-- Causal Inference & Regression Analysis
-- Policy Impact Modeling
-
-### Areas of Expertise
-
-- 💰 **Inclusive Growth** — Economic justice and equitable development
-- 📋 **Social Protection** — Policy design and implementation
-- 🏛️ **State Capacity** — Institutional development in emerging economies
-- 📊 **Evidence for Policy** — Research translation and stakeholder engagement
+DiD + triple-difference + synthetic control using the 2018 TRAIN Act as a natural experiment. Finds near-complete pass-through (≈95%) to consumers; bottom income quintile bears ~2.3× the per-expenditure burden of the top quintile.
+[→ PDF](https://sallyytsai.github.io/sally-portfolio/pdfs/tsai-vega-vat-passthrough-2026.pdf)
 
 ---
 
-## 📁 Featured Projects
+## Methods & Tools
 
-| Project | Type | Focus |
-|---------|------|-------|
-| [Taiwan EV & Cross-Strait Trade Policy](https://sallyytsai.github.io/sally-portfolio/) | Quant + Policy | Security salience and industrial policy shaping BYD entry strategy |
-| [Taiwan's Energy Transition](https://sallyytsai.github.io/sally-portfolio/) | Quant + Memo | Nuclear policy cycles and renewable energy governance |
-| [Brazil Health Outcomes](https://sallyytsai.github.io/sally-portfolio/) | Quantitative | Health system performance and inequality |
-| [Growth Decomposition: Azerbaijan vs Turkey](https://sallyytsai.github.io/sally-portfolio/) | Quant + Memo | Comparative macroeconomic growth accounting |
-| [Democracy, Equality & State Violence](https://sallyytsai.github.io/sally-portfolio/) | Quantitative | Cross-national analysis of regime type and state repression |
-| [Israel Constitutional Void](https://sallyytsai.github.io/sally-portfolio/) | Political Science | Institutional analysis of democratic backsliding |
+**R** · **Stata** · tidyverse · fixest · synthetic control · Quarto
+
+Causal inference: DiD · Triple-difference · Synthetic control · IV · RD · Ordered logit · OLS with robust/clustered SEs
+
+Languages: English (native) · Mandarin (native) — enables primary-source access to Chinese-language government data, firm filings, and media
 
 ---
 
-## 🌟 What I'm Passionate About
+## Currently
 
-> *Contributing to public sector and multilateral work that relies on sound economic reasoning, clear communication, and practical implementation to improve outcomes for people in emerging and developing economies.*
-
-I'm especially interested in:
-- 🌍 Development finance and international policy
-- 🔍 Rigorous evaluation of development programs
-- 📊 Data-driven policy design
-- 🤝 Cross-sector collaboration for development challenges
+- MPA/ID Year 2 at Harvard Kennedy School
+- Research affiliate, Philippine Competition Commission (with Carlos Vega)
+- Building dataset for geopolitical Dutch Disease panel IV study
+- SYPA project on SME trade adjustment to US-China tech decoupling
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sallyytsai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sallyytsai&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sallyytsai&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
----
-
-## 🎓 Education
-
-**Master in Public Administration – International Development (MPA/ID)**
-*Harvard Kennedy School*
-- Microeconomics, Macroeconomics, Statistics
-- Program Evaluation & Development Economics
-- Focus on emerging economies and social policy
-
----
-
-## 🔗 Connect With Me
-
-I'm always interested in discussing development economics, data-driven policy, and opportunities for collaboration on research.
-
-<div align="center">
-
-[📧 Email](mailto:sallytsai6640@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/sallyytsai/) • [🌐 Portfolio](https://sallyytsai.github.io/sally-portfolio/) • [🐙 GitHub](https://github.com/sallyytsai)
-
----
-
-*"Sound economic reasoning, clear communication, and practical implementation for better outcomes."*
-
-</div>
+[Portfolio](https://sallyytsai.github.io/sally-portfolio/) · [sallytsai6640@gmail.com](mailto:sallytsai6640@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sallyytsai/)
