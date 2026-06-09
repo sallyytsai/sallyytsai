@@ -1,4 +1,4 @@
-# Sally (Shao-Yu) Tsai 蔡少瑜 | MPA/ID Candidate 2027 · Harvard Kennedy School
+# Sally Tsai | MPA/ID Candidate 2027 · Harvard Kennedy School
 
 I study how small open economies navigate the tension between security competition and economic integration — particularly when geopolitical exposure reshapes trade policy, industrial structure, and consumer welfare. I work mainly with cross-national causal inference methods and combine them with process tracing grounded in institutional and political context.
 
