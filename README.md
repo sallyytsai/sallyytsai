@@ -48,9 +48,9 @@ records, Chinese-language policy documents
 ### Currently
 
 - 🎓 MPA/ID Candidate 2027, Harvard Kennedy School
-- 🌍 Incoming data infrastructure intern — African Legal Support Facility (ALSF / African Development Bank)
-- 🇵🇭 Former research associate — Philippine Competition Commission, Economics Office
-- 🇹🇼 Former legislative research assistant — Legislative Yuan of Taiwan (4 years)
+- 🌍 Consultant (Intern) — African Development Bank, Africa Legal Support Facility (ALSF), Jun–Sep 2026
+- 🇵🇭 Former Economics Intern — Philippine Competition Commission, Economics Office
+- 🇹🇼 Former Research and Policy Assistant — Legislator's Office, DPP (Rep. Rosalia Wu), 2020–2024
 
 ---
 
